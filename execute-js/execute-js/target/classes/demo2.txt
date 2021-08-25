@@ -1,0 +1,2 @@
+var reverseN1=n1.split("").reverse().join("")
+var reverseN2=n2.split("").reverse().join("")
